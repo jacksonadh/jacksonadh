@@ -16,7 +16,10 @@ Rocketseat: https://app.rocketseat.com.br/me/jacksonadh-1614097993472
 DIO: https://web.digitalinnovation.one/users/jacksonadh
 
 ## Project
-Check out some projects below
+
+- [Jogo Genius](https://jacksonadh.github.io/jogoGenius/) - Demo
+- [Devfinder](https://jacksonadh-devfinder.netlify.app/) - Demo
+
 ### Website Saturno Travel Agency | Completo
 
 Hello, this is my first complete project using HTML and CSS. I did it with the help of the channel [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA), your playlist helped me to understand CSS better.
