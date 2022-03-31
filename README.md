@@ -10,9 +10,9 @@ Já enquanto coordenador participei do processo de integração das unidades, fu
 Caso queira saber mais sobre mim, seguem meus contatos:
 
 
-Rocketseat: [](https://app.rocketseat.com.br/me/jacksonadh-1614097993472)
-DIO: [](https://web.digitalinnovation.one/users/jacksonadh)
-Linkedin: [](https://www.linkedin.com/in/jah7)
+Rocketseat: [https://app.rocketseat.com.br/me/jacksonadh-1614097993472](https://app.rocketseat.com.br/me/jacksonadh-1614097993472)
+DIO: [https://web.digitalinnovation.one/users/jacksonadh](https://web.digitalinnovation.one/users/jacksonadh)
+Linkedin: [https://www.linkedin.com/in/jah7](https://www.linkedin.com/in/jah7)
 Email: Jackson_almeida_07@hotmail.com
 Telefone: (71) 9 9605-1415
 
