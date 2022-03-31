@@ -1,19 +1,20 @@
 
-# About me
-**Jackson Almeida**, Married, Computer Coordinator, Musician, born in Pojuca-Ba currently resides in the city of Catu-Ba.
+# Sobre
 
-He started his career as an intern at Mega Curso Informática where he stayed for 1 year and 9 months, when he asked to be dismissed, he was looking for new challenges and thus got a place as an intern at [Clinica Sermec](https://www.clinicasermec.com.br "Clinica Sermec"), in March 2014, for 9 months outstanding then it was made effective. Today, with almost 7 years in the company, he is the coordinator of the IT sector.
+Olá, eu me chamo **Jackson Almeida**, tenho 29 anos, sou casado e eu sou técnico em informática.
+Meu trabalho é facilitar o dia a dia das pessoas no uso da tecnologia.
+Eu sempre fui curioso em relação a como as coisas funcionam, como elas são criadas e acredito que isso me fez ter afinidade com a tecnologia, dessa forma, desde que tive meu primeiro contato com um computador busquei aprender mais e mais, aprendi o máximo que pude e continuo aprendendo, seja com cursos voltados para a área de suporte e governança de T.I ou desenvolvimento de software e isso me trouxe resultados na minha carreira, desde a época em que eu era estagiário.
+Como estagiário implementei a parte de design gráfico da clínica fazendo ela ter mais visibilidade nas redes sociais, também desenvolvi um programa de senhas que ajudou na organização do atendimento da clínica.
+Quando fui efetivado já era destaque no suporte aos usuários pois ajudava a todos com muita agilidade e rapidez e sempre com boa vontade e acredito que por isso fui eleito o amigo de todos pelos meus colegas.
+Já enquanto coordenador participei do processo de integração das unidades, fui o responsável direto pelos contratos de links de internet para viabilizar a integração entre as unidades. Organizei o setor de informática implantando uma rotina de backup e de manutenções preventivas o que trouxe mais segurança e durabilidade para as peças.
+Caso queira saber mais sobre mim, seguem meus contatos:
 
-Over time he always sought new experiences and in the process began to develop websites and virtual stores.
 
-Check: https://www.elevupconsultoria.com.br
-
-It continues its quest for improvement and studies other technologies as they can be seen in programming communities such as Digital Innovation One, Rocketseat and Github.
-
-Follow channels to network
-Github: https://github.com/jacksonadh
-Rocketseat: https://app.rocketseat.com.br/me/jacksonadh-1614097993472
-DIO: https://web.digitalinnovation.one/users/jacksonadh
+Rocketseat: [](https://app.rocketseat.com.br/me/jacksonadh-1614097993472)
+DIO: [](https://web.digitalinnovation.one/users/jacksonadh)
+Linkedin: [](https://www.linkedin.com/in/jah7)
+Email: Jackson_almeida_07@hotmail.com
+Telefone: (71) 9 9605-1415
 
 ## Project
 
