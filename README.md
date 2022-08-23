@@ -1,9 +1,9 @@
 
 # Sobre
 
-Olá, eu me chamo **Jackson Almeida**, tenho 29 anos, sou casado e eu sou técnico em informática.
+Olá, eu me chamo **Jackson Almeida**, tenho 29 anos, sou casado e desenvolvedor front-end.
 
-Meu trabalho é facilitar o dia a dia das pessoas no uso da tecnologia.
+Facilito o dia a dia das pessoas por meio do uso da tecnologia.
 
 Eu sempre fui curioso em relação a como as coisas funcionam, como elas são criadas e acredito que isso me fez ter afinidade com a tecnologia, dessa forma, desde que tive meu primeiro contato com um computador busquei aprender mais e mais, aprendi o máximo que pude e continuo aprendendo, seja com cursos voltados para a área de suporte e governança de T.I ou desenvolvimento de software e isso me trouxe resultados na minha carreira, desde a época em que eu era estagiário.
 Como estagiário implementei a parte de design gráfico da clínica fazendo ela ter mais visibilidade nas redes sociais, também desenvolvi um programa de senhas que ajudou na organização do atendimento da clínica.
@@ -15,15 +15,15 @@ Já enquanto coordenador participei do processo de integração das unidades, fu
 Caso queira saber mais sobre mim, seguem meus contatos:
 
 
-Rocketseat: [https://app.rocketseat.com.br/me/jacksonadh-1614097993472](https://app.rocketseat.com.br/me/jacksonadh-1614097993472)
+[Rocketseat](https://app.rocketseat.com.br/me/jacksonadh-1614097993472)
 
-DIO: [https://web.digitalinnovation.one/users/jacksonadh](https://web.digitalinnovation.one/users/jacksonadh)
+[DIO](https://web.digitalinnovation.one/users/jacksonadh)
 
-Linkedin: [https://www.linkedin.com/in/jah7](https://www.linkedin.com/in/jah7)
+[Linkedin](https://www.linkedin.com/in/jah7)
 
 Email: Jackson_almeida_07@hotmail.com
 
-Telefone: (71) 9 9605-1415
+[Telefone](https://wa.me/5571996051415?text=Ol%C3%A1%2C+te+achei+no+github%2C+vamos+conversar%3F)
 
 ## Project
 
