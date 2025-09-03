@@ -12,7 +12,7 @@ Sou um **desenvolvedor front-end**, casado e apaixonado por criar experiências 
 - 💼 Focado em desenvolvimento front-end
 - 📍 Salvador, Bahia - Brasil
 - 💡 Interessado em colaborar em projetos open source
-- 🎯 Objetivo: Me tornar um desenvolvedor full-stack
+- 🎯 Objetivo: Me tornar um desenvolvedor full-stack pleno
 
 ## 🛠️ Tecnologias & Ferramentas
 
